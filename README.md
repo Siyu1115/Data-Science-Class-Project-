@@ -1,2 +1,2 @@
-# Data-Science-Class-Project-
+# Data-Science-Class-Project
 dummy repo for class
